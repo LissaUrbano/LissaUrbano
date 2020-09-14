@@ -5,7 +5,9 @@
 My name is Lissa and ...:
 
  - 💙 I really like to learn
- - 📊 I'm working with 
+ - 👷‍♀️ I'm a civil engineer
+ - 📊 I'm postgraduate MBA Project Management
+ - 👩‍💻 I'm Currently studying computer engineering
  - 📚 Currently studying Java
  - 🌍 And I also like to travel
  - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, C, Java.
