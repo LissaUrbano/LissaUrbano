@@ -1,16 +1,18 @@
-### Hi there 👋
+# Lissa Urbano :woman_technologist:
 
-<!--
-**LissaUrbano/LissaUrbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋 Welcome to my profile
 
-Here are some ideas to get you started:
+My name is Lissa and ...:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 💙 I really like to learn
+ - 📊 I'm working with 
+ - 📚 Currently studying Java
+ - 🌍 And I also like to travel
+ - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, C, Java.
+ 
+ ----
+
+[![Github Badge](https://img.shields.io/badge/-lissaurbano-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lissaurbano)](https://github.com/lissaurbano)
+[![Linkedin Badge](https://img.shields.io/badge/-lissaurbano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lissaurbano/)](https://www.linkedin.com/in/lissaurbano/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lissaurbano@gmail.com)](mailto:lissaurbano@gmail.com)
+
